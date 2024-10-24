@@ -5,7 +5,7 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>3.3.4</version>
+		<version>3.3.5</version>
 		<relativePath/>
 	</parent>
 	<groupId>com.nxest.keycloak</groupId>
@@ -14,7 +14,7 @@
 	<name>spring-boot-keycloak-tutorial</name>
 	<description>spring-boot-keycloak-tutorial</description>
 	<properties>
-		<java.version>21</java.version>
+		<java.version>23</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
